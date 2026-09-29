@@ -209,4 +209,4 @@ class Perro extends Animal {
 
 
 const miPerro = new Perro("Firulais", "Labrador");
-console.log(miPerro.saludar()); // Imprime: Hola, soy Firulais
+console.log(miPerro.saludar());
